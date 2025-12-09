@@ -1,4 +1,4 @@
-# 🏡 Alpine Cottage Bed & Breakfast – Modern WordPress Design Project
+# 🏢 JPM HomeLets Ltd – Professional WordPress Maintenance Project
 
 This project showcases a fully customized WordPress website for Alpine Cottage Bed & Breakfast, designed to highlight their cozy accommodations and warm atmosphere through a clean, user-friendly layout.
 
