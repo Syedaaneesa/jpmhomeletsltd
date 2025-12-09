@@ -3,7 +3,7 @@
 This project showcases a fully customized WordPress website for Alpine Cottage Bed & Breakfast, designed to highlight their cozy accommodations and warm atmosphere through a clean, user-friendly layout.
 
 You can visit the live site here:  
-🔗 [https://alpinecottagebedandbreakfast.com/](https://alpinecottagebedandbreakfast.com/)
+🔗 [https://jpmhomeletsltd.com/](https://jpmhomeletsltd.com/)
 
 ---
 
@@ -15,8 +15,6 @@ Below are visuals that highlight the website and its main features:
 ![Rooms Section](https://github.com/Syedaaneesa/jpmhomeletsltd/blob/main/image3.png)
 ![Gallery Section](https://github.com/Syedaaneesa/jpmhomeletsltd/blob/main/image4.png)
 ![Contact Section](https://github.com/Syedaaneesa/jpmhomeletsltd/blob/main/image5.png)
-
-
 ![Contact Section](https://github.com/Syedaaneesa/jpmhomeletsltd/blob/main/image6.png)
 ![Contact Section](https://github.com/Syedaaneesa/jpmhomeletsltd/blob/main/image7.png)
 ![Contact Section](https://github.com/Syedaaneesa/jpmhomeletsltd/blob/main/image8.png)
