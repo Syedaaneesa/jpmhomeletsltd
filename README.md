@@ -1,6 +1,6 @@
 # 🏢 JPM HomeLets Ltd – Professional WordPress Maintenance Project
 
-This project showcases a fully customized WordPress website for Alpine Cottage Bed & Breakfast, designed to highlight their cozy accommodations and warm atmosphere through a clean, user-friendly layout.
+This project showcases a fully customized WordPress website for JPM HomeLets Ltd, designed to highlight their expert serviced office and commercial property maintenance services across the UK through a professional, trustworthy, and user-friendly corporate layout.
 
 You can visit the live site here:  
 🔗 [https://jpmhomeletsltd.com/](https://jpmhomeletsltd.com/)
@@ -66,8 +66,7 @@ Custom post types for streamlined room management and effortless content updates
 
 ## 💡 Learnings & Achievements
 
-This project presents a fully customized WordPress website for Alpine Cottage Bed & Breakfast, designed to highlight their cozy accommodations and warm hospitality through a clean, user-friendly layout.
-
+This project showcases a fully customized WordPress website for JPM HomeLets Ltd, designed to highlight their expert serviced office and commercial property maintenance services across the UK through a professional, trustworthy, and user-friendly corporate layout.
 ---
 
 ## 📬 Contact
