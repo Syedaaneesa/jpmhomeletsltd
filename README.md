@@ -24,15 +24,12 @@ Below are visuals that highlight the website and its main features:
 
 This website was fully developed in WordPress, featuring a custom theme, optimized plugins, and design elements tailored to reflect the brand’s visual identity.
 ### Key Highlights:
-– A modern, fully responsive layout designed for smooth browsing on both desktop and mobile.
-– Refined typography combined with a warm color palette to evoke a cozy cottage atmosphere.
-– A functional contact form integrated with automated email notifications.
-
-An integrated image gallery showcasing room interiors and overall ambiance.
-
-SEO-friendly structure with optimized and compressed media files.
-
-Custom post types for streamlined room management and effortless content updates.
+– A modern, fully responsive corporate layout ensuring seamless experience on desktop, tablet, and mobile devices.
+– Professional typography and trusted blue-tone color palette to convey reliability and expertise.
+– Secure, GDPR-compliant contact forms with automated email notifications and spam protection.
+– Clean service showcase sections with icons and detailed breakdowns for easy navigation.
+– SEO-optimized structure with local business schema, fast-loading compressed images, and clean code.
+– Custom Elementor templates and organized page structure for effortless future content updates and maintenance.
 
 ---
 
