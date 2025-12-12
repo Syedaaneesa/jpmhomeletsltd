@@ -1,6 +1,6 @@
 # 🏢 JPM HomeLets Ltd – Professional WordPress Maintenance Project
 
-This project features a fully customized WordPress website for JPM HomeLets Ltd, built to showcase their expert serviced office solutions and commercial property maintenance services across the UK through a professional, reliable, and user-friendly corporate design.
+This project showcases a fully customized WordPress website for JPM HomeLets Ltd, designed to present their expert serviced office solutions and commercial property maintenance services across the UK through a professional, trustworthy, and user-friendly corporate design.
 
 You can visit the live site here:  
 🔗 [https://jpmhomeletsltd.com/](https://jpmhomeletsltd.com/)
@@ -22,14 +22,19 @@ Below are visuals that highlight the website and its main features:
 
 ## 🛠️ Project Overview
 
-This website was developed entirely in WordPress, incorporating a custom theme, optimized plugins, and design elements carefully crafted to reflect the brand’s unique visual identity..
+This website was fully developed in WordPress, featuring a custom theme, optimized plugins, and thoughtfully designed elements that reflect the brand’s distinctive visual identity.
 ### Key Highlights:
-– A modern, fully responsive corporate layout that delivers a seamless experience across desktop, tablet, and mobile devices.
-– Professional typography combined with a trusted blue-toned color palette to reinforce reliability and expertise.
-– Secure, GDPR-compliant contact forms with automated email notifications and built-in spam protection.
-– Clean, well-structured service sections featuring icons and detailed descriptions for easy navigation.
-– An SEO-optimized foundation with local business schema, fast-loading compressed images, and clean, efficient code.
-– Custom Elementor templates and a well-organized page structure to ensure smooth future updates and maintenance.
+A contemporary, fully responsive corporate layout providing a seamless experience on desktop, tablet, and mobile devices.
+
+Professional typography paired with a trustworthy blue-toned color scheme to convey reliability and expertise.
+
+Secure, GDPR-compliant contact forms with automated email notifications and built-in spam protection.
+
+Clean, well-organized service sections with icons and detailed descriptions for easy navigation.
+
+SEO-optimized structure with local business schema, fast-loading compressed images, and clean, efficient code.
+
+Custom Elementor templates and a structured page layout to facilitate smooth updates and future maintenance.
 
 ---
 
@@ -63,11 +68,11 @@ This website was developed entirely in WordPress, incorporating a custom theme, 
 
 ## 💡 Learnings & Achievements
 
-This project presents a fully customized WordPress website for JPM HomeLets Ltd, crafted to showcase their expert serviced office solutions and commercial property maintenance services across the UK through a professional, trustworthy, and user-friendly corporate design.
+This project highlights a fully customized WordPress website for JPM HomeLets Ltd, designed to feature their expert serviced office solutions and commercial property maintenance services across the UK through a professional, reliable, and user-friendly corporate design.
 ---
 
 ## 📬 Contact
-If you’re looking for expert WordPress or Elementor services, I’d be glad to collaborate—feel free to reach out anytime!
+If you’re seeking professional WordPress or Elementor support, I’d be happy to collaborate—don’t hesitate to get in touch!
 **👤 Developer:** Syeda Aneesa  
 **📧 Email:** saneesa@zeestmedia.com]  
 **🌍 Portfolio:** https://aneesa.zeestmedia.com
