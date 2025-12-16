@@ -1,6 +1,6 @@
-# 🏢 JPM HomeLets Ltd – Professional WordPress Maintenance Project
+#🏢 JPM HomeLets Ltd – Professional WordPress Support & Maintenance Project
 
-This project showcases a fully customized WordPress website for JPM HomeLets Ltd, designed to present their expert serviced office solutions and commercial property maintenance services across the UK through a professional, trustworthy, and user-friendly corporate design.
+This project features a fully tailored WordPress website for JPM HomeLets Ltd, created to highlight their serviced office solutions and commercial property maintenance services across the UK with a professional, reliable, and user-friendly corporate design.
 
 You can visit the live site here:  
 🔗 [https://jpmhomeletsltd.com/](https://jpmhomeletsltd.com/)
@@ -68,8 +68,8 @@ Custom Elementor templates and a structured page layout to facilitate smooth upd
 
 ## 💡 Learnings & Achievements
 
-This project highlights a fully customized WordPress website for JPM HomeLets Ltd, designed to feature their expert serviced office solutions and commercial property maintenance services across the UK through a professional, reliable, and user-friendly corporate design.
----
+This project presents a fully bespoke WordPress website for JPM HomeLets Ltd, crafted to showcase their serviced office solutions and commercial property maintenance services across the UK with a professional, trustworthy, and intuitive corporate design.
+
 
 ## 📬 Contact
 If you’re seeking professional WordPress or Elementor support, I’d be happy to collaborate—don’t hesitate to get in touch!
