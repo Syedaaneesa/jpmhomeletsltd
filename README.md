@@ -22,7 +22,8 @@ Below are visuals that highlight the website and its main features:
 
 ##  Project Overview
 
-This website was fully developed in WordPress, incorporating a custom theme, optimized plugins, and thoughtfully designed elements that reflect the brand’s unique visual identity.
+This website was developed using WordPress with a custom theme and optimized plugins for better performance. The design elements are carefully aligned with the brand’s visual identity, ensuring a clean, consistent, and user-friendly experience.
+
 ### Key Highlights:
 A modern, fully responsive corporate design delivering a seamless experience across desktop, tablet, and mobile devices.
 
