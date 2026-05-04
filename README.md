@@ -53,7 +53,7 @@ Custom-built Elementor templates and structured layouts to enable easy updates a
 
 ---
 
-## 🧩 Effort Breakdown
+##  Effort Breakdown
 
 | Task | Description |
 |------|--------------|
@@ -66,16 +66,16 @@ Custom-built Elementor templates and structured layouts to enable easy updates a
 
 ---
 
-## 💡 Learnings & Achievements
+##  Learnings & Achievements
 
 A fully custom WordPress website for JPM HomeLets Ltd, created to showcase their serviced office solutions and commercial property maintenance services across the UK, featuring a professional, reliable, and user-friendly corporate design.
 
-## 📬 Contact
+##  Contact
 If you’re seeking professional WordPress or Elementor support, I’d be happy to collaborate—don’t hesitate to get in touch!
-**👤 Developer:** Syeda Aneesa  
-**📧 Email:** saneesa@zeestmedia.com]  
-**🌍 Portfolio:** https://aneesa.zeestmedia.com
+** Developer:** Syeda Aneesa  
+** Email:** saneesa@zeestmedia.com]  
+** Portfolio:** https://aneesa.zeestmedia.com
 
 ---
-## 📁 Repository Structure
+##  Repository Structure
 
