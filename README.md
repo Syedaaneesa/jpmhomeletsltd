@@ -1,13 +1,13 @@
- #🏢 JPM HomeLets Ltd – Professional WordPress Support & Maintenance Project
+ # JPM HomeLets Ltd – Professional WordPress Support & Maintenance Project
 
 This project presents a fully custom WordPress website for JPM HomeLets Ltd, developed to showcase their serviced office solutions and commercial property maintenance services across the UK, with a professional, reliable, and user-friendly corporate design.
 
 You can visit the live site here:  
-🔗 [https://jpmhomeletsltd.com/](https://jpmhomeletsltd.com/)
+ [https://jpmhomeletsltd.com/](https://jpmhomeletsltd.com/)
 
 ---
 
-## 📸 Project Preview
+##  Project Preview
 Below are visuals that highlight the website and its main features:
 
 ![Home Page](https://github.com/Syedaaneesa/jpmhomeletsltd/blob/main/image1.png)
@@ -20,7 +20,7 @@ Below are visuals that highlight the website and its main features:
 ![Contact Section](https://github.com/Syedaaneesa/jpmhomeletsltd/blob/main/image8.png)
 ---
 
-## 🛠️ Project Overview
+##  Project Overview
 
 This website was fully developed in WordPress, incorporating a custom theme, optimized plugins, and thoughtfully designed elements that reflect the brand’s unique visual identity.
 ### Key Highlights:
@@ -38,7 +38,7 @@ Custom-built Elementor templates and structured layouts to enable easy updates a
 
 ---
 
-## ⚙️ Resources & Tools Used
+##  Resources & Tools Used
 
 | Category | Tools/Plugins/Resources |
 |-----------|--------------------------|
