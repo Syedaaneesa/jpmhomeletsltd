@@ -10,14 +10,12 @@ You can visit the live site here:
 ##  Project Preview
 Below are visuals that highlight the website and its main features:
 
-![Home Page](https://github.com/Syedaaneesa/jpmhomeletsltd/blob/main/image1.png)
-![About Section](https://github.com/Syedaaneesa/jpmhomeletsltd/blob/main/image2.png)
-![Rooms Section](https://github.com/Syedaaneesa/jpmhomeletsltd/blob/main/image3.png)
-![Gallery Section](https://github.com/Syedaaneesa/jpmhomeletsltd/blob/main/image4.png)
-![Contact Section](https://github.com/Syedaaneesa/jpmhomeletsltd/blob/main/image5.png)
-![Contact Section](https://github.com/Syedaaneesa/jpmhomeletsltd/blob/main/image6.png)
-![Contact Section](https://github.com/Syedaaneesa/jpmhomeletsltd/blob/main/image7.png)
-![Contact Section](https://github.com/Syedaaneesa/jpmhomeletsltd/blob/main/image8.png)
+![Home Page](https://github.com/Syedaaneesa/jpmhomeletsltd/blob/main/homes.png)
+![About Page](https://github.com/Syedaaneesa/jpmhomeletsltd/blob/main/abouts.png)
+![Services Page](https://github.com/Syedaaneesa/jpmhomeletsltd/blob/main/servicess.png)
+![Our Clients Page](https://github.com/Syedaaneesa/jpmhomeletsltd/blob/main/clientss.png)
+![Contact page](https://github.com/Syedaaneesa/jpmhomeletsltd/blob/main/contacts.png)
+
 ---
 
 ##  Project Overview
