@@ -67,7 +67,7 @@ Custom-built Elementor templates and structured layouts allow easy content updat
 
 ##  Learnings & Achievements
 
-A fully custom WordPress website for JPM HomeLets Ltd, created to showcase their serviced office solutions and commercial property maintenance services across the UK, featuring a professional, reliable, and user-friendly corporate design.
+A fully custom WordPress website developed for JPM HomeLets Ltd, designed to showcase their serviced office solutions and commercial property maintenance services across the UK. The website features a professional, modern, and user-friendly corporate design that reflects the company's reliability and expertise, while providing visitors with easy access to service information, business details, and contact options across all devices.
 
 ##  Contact
 If you’re seeking professional WordPress or Elementor support, I’d be happy to collaborate—don’t hesitate to get in touch!
