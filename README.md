@@ -20,7 +20,7 @@ Below are visuals that highlight the website and its main features:
 
 ##  Project Overview
 
-This website was built on WordPress using a custom theme and carefully selected, performance-optimized plugins. Every design element has been tailored to reflect the brand’s visual identity, delivering a clean, cohesive, and user-friendly experience across all devices.
+This website was developed on WordPress using a custom-built theme and carefully selected, performance-optimized plugins. Every aspect of the design has been tailored to align with the brand’s identity, creating a clean, professional, and cohesive user experience. Fully responsive and optimized for performance, the website ensures seamless functionality and accessibility across desktops, tablets, and mobile devices.
 
 ### Key Highlights:
 A modern, fully responsive corporate design that ensures a smooth and consistent experience across desktop, tablet, and mobile devices, adapting perfectly to all screen sizes.
