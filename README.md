@@ -1,6 +1,6 @@
  # JPM HomeLets Ltd – Professional WordPress Support & Maintenance Project
 
-This project showcases a fully custom WordPress website developed for JPM HomeLets Ltd, designed to highlight their serviced office solutions and commercial property maintenance services across the UK. Featuring a professional and trustworthy corporate design, the website delivers a seamless user experience with intuitive navigation, responsive layouts, and clear service presentation. Built with performance, scalability, and ease of management in mind, the site strengthens the company’s online presence while making it easy for potential clients to explore services, learn about the business, and get in touch.
+A custom WordPress website developed for JPM HomeLets Ltd, showcasing their serviced office solutions and commercial property maintenance services across the UK. Designed with a clean, professional aesthetic, the site offers a seamless user experience, responsive design, and intuitive navigation. Built for performance and scalability, it strengthens the company's online presence while making it easy for potential clients to explore services and get in touch.
 
 # You can visit the live site here:  
  [https://jpmhomeletsltd.com/](https://jpmhomeletsltd.com/)
