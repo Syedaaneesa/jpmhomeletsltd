@@ -78,6 +78,4 @@ If you’re seeking professional WordPress or Elementor support, I’d be happy 
 
 ** Portfolio:** https://aneesa.zeestmedia.com
 
----
-## Repository Structure
 
