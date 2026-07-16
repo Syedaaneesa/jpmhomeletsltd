@@ -70,12 +70,9 @@ Custom-built Elementor templates and structured layouts allow easy content updat
 A fully custom WordPress website developed for JPM HomeLets Ltd, designed to showcase their serviced office solutions and commercial property maintenance services across the UK. The website features a professional, modern, and user-friendly corporate design that reflects the company's reliability and expertise, while providing visitors with easy access to service information, business details, and contact options across all devices.
 
 ##  Contact
-If you’re seeking professional WordPress or Elementor support, I’d be happy to collaborate—don’t hesitate to get in touch!
-
-** Developer:** Syeda Aneesa  
-
-** Email:** saneesa@zeestmedia.com]  
-
-** Portfolio:** https://aneesa.zeestmedia.com
+If you’re seeking professional WordPress or Elementor support, I’d be happy to collaborate-don’t hesitate to get in touch!
+ Developer: Syeda Aneesa  
+ Email: saneesa@zeestmedia.com
+ Portfolio: https://aneesa.zeestmedia.com
 
 
