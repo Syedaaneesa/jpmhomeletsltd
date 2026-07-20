@@ -55,7 +55,7 @@ Custom-built Elementor templates and structured layouts allow easy content updat
 ##  Effort Breakdown
 
 | Task | Description |
-||--|
+|--|--|
 | **Initial Planning & Wireframing** | Defined the layout, sections, and navigation flow. |
 | **Theme Setup & Customization** | Installed WordPress, configured theme, and applied custom styling. |
 | **Content Integration** | Added text, media, and SEO metadata for each page. |
