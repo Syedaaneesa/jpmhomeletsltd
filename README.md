@@ -5,7 +5,7 @@ A custom WordPress website developed for JPM HomeLets Ltd, showcasing their serv
 #### You can visit the live site here:  
  [https://jpmhomeletsltd.com/](https://jpmhomeletsltd.com/)
 
----
+
 
 ##  Project Preview
 Below are visuals that highlight the website and its main features:
@@ -16,7 +16,7 @@ Below are visuals that highlight the website and its main features:
 ![Our Clients Page](https://github.com/Syedaaneesa/jpmhomeletsltd/blob/main/clientss.png)
 ![Contact page](https://github.com/Syedaaneesa/jpmhomeletsltd/blob/main/contacts.png)
 
----
+
 
 ##  Project Overview
 
@@ -35,12 +35,12 @@ SEO-optimized architecture including local business schema, optimized images, an
 
 Custom-built Elementor templates and structured layouts allow easy content updates and ensure long-term flexibility without technical hassle.
 
----
+
 
 ##  Resources & Tools Used
 
 | Category | Tools/Plugins/Resources |
-|-----------|--------------------------|
+|--|--|
 | **Platform** | WordPress (Latest Version) |
 | **Theme Base** | Custom-built using Elementor + Custom CSS |
 | **Plugins** | Contact Form 7, WPForms, Elementor, Yoast SEO, WP Super Cache |
@@ -50,12 +50,12 @@ Custom-built Elementor templates and structured layouts allow easy content updat
 | **Images** | Client-provided and royalty-free stock images |
 | **Performance Optimization** | Image compression, caching, and minified assets |
 
----
+
 
 ##  Effort Breakdown
 
 | Task | Description |
-|------|--------------|
+||--|
 | **Initial Planning & Wireframing** | Defined the layout, sections, and navigation flow. |
 | **Theme Setup & Customization** | Installed WordPress, configured theme, and applied custom styling. |
 | **Content Integration** | Added text, media, and SEO metadata for each page. |
@@ -63,7 +63,7 @@ Custom-built Elementor templates and structured layouts allow easy content updat
 | **Testing & Optimization** | Conducted mobile responsiveness tests and speed optimizations. |
 | **Deployment** | Uploaded to live hosting and configured domain/SSL. |
 
----
+
 
 ##  Learnings & Achievements
 
