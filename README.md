@@ -24,15 +24,10 @@ This website was developed on WordPress using a custom-built theme and carefully
 
 ### Key Highlights:
 A modern, fully responsive corporate design that ensures a smooth and consistent experience across desktop, tablet, and mobile devices, adapting perfectly to all screen sizes.
-
 Professional typography combined with a trusted blue-toned color palette helps communicate credibility, reliability, and a strong brand identity.
-
 Secure, GDPR-compliant contact forms with automated notifications and built-in spam protection ensure safe and efficient communication with your visitors.
-
 Clearly organized service sections, supported by intuitive icons and concise descriptions, make it easy for users to understand your offerings and navigate effortlessly.
-
 SEO-optimized architecture including local business schema, optimized images, and clean, well-structured code to improve search visibility and performance.
-
 Custom-built Elementor templates and structured layouts allow easy content updates and ensure long-term flexibility without technical hassle.
 
 
