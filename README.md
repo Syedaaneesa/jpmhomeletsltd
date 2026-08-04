@@ -67,7 +67,7 @@ A fully custom WordPress website developed for JPM HomeLets Ltd, designed to sho
 ##  Contact
 If you’re seeking professional WordPress or Elementor support, I’d be happy to collaborate-don’t hesitate to get in touch!
  Developer: Syeda Aneesa  
- Email: saneesa@zeestmedia.com
- Portfolio: https://aneesa.zeestmedia.com
+* Email: saneesa@zeestmedia.com
+* Portfolio: https://aneesa.zeestmedia.com
 
 
